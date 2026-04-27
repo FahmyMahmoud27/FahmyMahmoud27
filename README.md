@@ -28,15 +28,47 @@
 
 ## 🛠 Tech Stack
 
+### 📱 Android Development
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java\&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?logo=xml\&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android\&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android\&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-0095D5?logo=kotlin\&logoColor=white)
+
+### 🧩 Architecture & Patterns
+
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00)
+![MVC](https://img.shields.io/badge/MVC-607D8B)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000)
+
+### ⚙️ Tools & Libraries
+
+![Retrofit](https://img.shields.io/badge/Retrofit-009688)
 ![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?logo=kotlin\&logoColor=white)
+![Room](https://img.shields.io/badge/Room-6DB33F)
+![RecyclerView](https://img.shields.io/badge/RecyclerView-FF5722)
+![Dependency Injection](https://img.shields.io/badge/DI-673AB7)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=black)
+
+### 🌐 Networking & APIs
+
+* REST APIs
+* Retrofit
+* Retrofit Interceptors
+
+### 🧠 Other Skills
+
+* Activity Lifecycle
+* Fragments
+* Jetpack Compose
+* Location & Maps
+* Authentication Systems
+* Git & GitHub
+
+### 🚀 Currently Exploring
+
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-0095D5?logo=kotlin\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
 ---
 
@@ -48,20 +80,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahmyMahmoud27&show_icons=true&theme=tokyonight"/>
-</div>
-
----
-
 ## 🎯 Currently Learning
 
-* Clean Architecture
-* Kotlin Coroutines & Flow
 * Kotlin Multiplatform (KMP)
-* Advanced UI with Compose
+* Advanced Coroutines & Flow
+* Clean Architecture (Deep Dive)
 
 ---
 
@@ -70,6 +93,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/fahmy-mahmoud-b936a5229/)
+
+📧 **Email:** [fahmy.14.mahmoud@gmail.com](mailto:fahmy.14.mahmoud@gmail.com)
 
 </div>
 
