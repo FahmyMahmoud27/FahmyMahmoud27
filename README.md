@@ -1,58 +1,52 @@
-# Hey there, I'm [Yousef Dergham](https://yousefdergham.vercel.app/) 👋
+# Hey there, I'm Fahmy Mahmoud 👋
 
-**Full-stack Web Developer · CS Student · Coffee Lover ☕**
+**Android Developer · CS Student**
 
-💼 **Current:** Full Stack Engineer at [Quran.Foundation](https://quran.foundation)
+💼 **Current:** Android Trainee | Open to Internships
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## 🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I am a Software Engineer skilled in React, Next.js, WordPress, PHP, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+I am an Android Developer passionate about building modern, scalable mobile applications.  
+Currently learning and improving my skills in Android development using Kotlin and modern architectures.
 
-
-
+I enjoy solving problems, learning new technologies, and building real-world projects.
 
 <br clear="right"/>
 
 ## 🔧 My Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?logo=architecture&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </div>
 
-## 🎯 LeetCode Heatmap
+## 🎯 Currently Learning
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
+- Advanced Android Development
+- Clean Architecture
+- Kotlin Coroutines & Flow
+- Problem Solving
 
 ## 🔗 Connect with Me
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yousefdergham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousefdergham)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YousefMohamed01)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yousefdergham)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB)
 
 </div>
